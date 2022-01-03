@@ -1,6 +1,6 @@
 # potential-enigma
 
-  ![license badge](https://img.shields.io/static/v1?label=license&message=MozillaPublic License 2.0&color=red)
+  ![license badge](https://img.shields.io/static/v1?label=license&message=MozillaPublic_License_2.0&color=red)
   
   ## Description
   Creates a readme.md file based on user input
