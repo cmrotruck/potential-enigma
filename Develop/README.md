@@ -1,9 +1,9 @@
 # potential-enigma
 
-  ![license badge](https://img.shields.io/static/v1?label=license&message=MozillaPublic License 2.0&color=red)
+  ![license badge](https://img.shields.io/static/v1?label=license&message=Mozilla_Public_License_2.0&color=red)
   
   ## Description
-  Creates a readme.md file based on user input
+  creates a readme file based on user information entered
 
   ## Table Of Contents
   * [Installation](#Instalation)
@@ -14,16 +14,16 @@
   * [Questions](#Questions)
 
   ## Installation
-  must install node.js and run node from the command prompt
+  must have node installed.
 
   ## Usage
-  to use program, you must type node index from the root folder using your command prompt.
+  must use node to execute file
 
   ## Contribution
   Author - Chad Rotruck
 
   ## Testing
-  no test instructions at this time.
+  no test instructions 
 
   ## License
   ### ©️2021 
@@ -35,5 +35,5 @@
 
   ## Questions
   If you have any questions, I can be reached at crotruck@gmail.com or 
-  visit my [GitHub](https://github.com/undefined)
+  visit my [GitHub](https://github.com/cmrotruck)
   
