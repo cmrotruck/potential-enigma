@@ -1,35 +1,39 @@
-# adfadfshsg
+# potential-enigma
 
-  ![license badge](https://img.shields.io/static/v1?label=license&message=GNUAGPLv3&color=red)
+  ![license badge](https://img.shields.io/static/v1?label=license&message=MozillaPublic License 2.0&color=red)
   
   ## Description
-  sfgsfg
+  Creates a readme.md file based on user input
 
   ## Table Of Contents
   * [Installation](#Instalation)
   * [Usage](#Usage)
-  * [License](#License)
-  * [Credits](#Credits)
   * [Contribution](#Contribution)
   * [Testing](#Tesing)
+  * [License](#License)
+  * [Questions](#Questions)
 
   ## Installation
-  sfgsdg
+  must install node.js and run node from the command prompt
 
   ## Usage
-  fsfg
+  to use program, you must type node index from the root folder using your command prompt.
 
   ## Contribution
-  sfg
+  Author - Chad Rotruck
 
   ## Testing
-  f
+  no test instructions at this time.
 
   ## License
   ### ©️2021 
 
  
 
-  Licensed under the [GNU Affero General Public License v3.0](./utils/GNU_Affero_General_Public_License_v3.0).
+  Licensed under the [Mozilla Public License 2.0](./utils/Mozilla_Public_License_2.0).
   
+
+  ## Questions
+  If you have any questions, I can be reached at crotruck@gmail.com or 
+  visit my [GitHub](https://github.com/undefined)
   
